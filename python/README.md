@@ -14,7 +14,7 @@ $ python setup.py install
 
 For example:
 
-```
+```python
 # -*- coding: utf-8 -*-
 
 import time

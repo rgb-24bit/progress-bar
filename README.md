@@ -1,2 +1,8 @@
 # progress-bar
-Simple terminal progress bar
+
+> Output a simple progress bar to the terminal.
+
+# Implement
+
+Have these implementations: [Python](./python).
+

@@ -79,6 +79,8 @@ class ProgressBar(object):
         self.current = -1
 
     def finish(self):
-        """Complete output."""
+        """Complete output and return the instance object itself.
+        """
         sys.stdout.write('\n')
         sys.stdout.flush()
+        return self

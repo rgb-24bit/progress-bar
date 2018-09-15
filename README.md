@@ -4,5 +4,5 @@
 
 # Implement
 
-Have these implementations: [Python](./python), [Java](./java).
+Have these implementations: [Python](./python), [Java](./java), [C](./c).
 
